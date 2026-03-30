@@ -2,7 +2,7 @@
 
 A responsive portfolio website showcasing my work as a Senior Graphic Designer, including brand identity, motion graphics, video content, and digital design.
 
-🔗 Live site: https://josephined.github.io/portfolio-site/  
+🔗 Live site: https://josephined.github.io/portfolio/  
 (*Update this once your custom domain is working*)
 
 ---
